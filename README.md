@@ -1,5 +1,8 @@
 ### Hey there im Tylor
 
+[![Website](https://img.shields.io/website?label=tylor.ninja&style=for-the-badge&url=https%3A%2F%2Ftylor.ninja)](https://tylor.ninja)
+
+
 
 Here are some ideas to get you started:
 
