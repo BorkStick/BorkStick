@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on dockerizing my homelab
+- 🔭 I’m currently working on updating my homelab
 - 🌱 I’m currently learning Docker
 - 💬 Ask me about my homelab
 - 📫 How to reach me: ...
