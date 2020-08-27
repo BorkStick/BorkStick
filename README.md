@@ -1,8 +1,8 @@
-### Hey there im Tylor
+# Tylor Wurz - BorkStick
 
 [![Website](https://img.shields.io/website?label=tylor.ninja&style=for-the-badge&url=https%3A%2F%2Ftylor.ninja)](https://tylor.ninja)
 
-
+Hi I am Tylor. Im a huge nerd/geek and I love to tinker with my homelab.
 
 Here are some ideas to get you started:
 
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <br>
 
 ### Languages and Tools:
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
@@ -39,6 +40,7 @@ Here are some ideas to get you started:
 <br>
 
 ### Examples of work
+ [![Alt text](https://raw.githubusercontent.com/BorkStick/stream-template-2020/master/IMAGES/screenshot.gif)](https://github.com/BorkStick/stream-template-2020/)
 
 [![borksticks github stats](https://github-readme-stats.vercel.app/api?username=borkstick&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
