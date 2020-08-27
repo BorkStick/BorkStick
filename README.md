@@ -40,7 +40,7 @@ Hi I am Tylor. Im a huge nerd/geek and I love to tinker with my homelab.
 <br>
 
 ### Examples of work
- [![Alt text](https://raw.githubusercontent.com/BorkStick/stream-template-2020/master/IMAGES/screenshot.gif)](https://github.com/BorkStick/stream-template-2020/)
+<img src="https://raw.githubusercontent.com/BorkStick/stream-template-2020/master/IMAGES/screenshot.gif" width="300" />
 
 [![borksticks github stats](https://github-readme-stats.vercel.app/api?username=borkstick&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
