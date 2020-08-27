@@ -50,7 +50,7 @@ Hi I am Tylor. Im a huge nerd/geek and I love to tinker with my homelab.
 [twitter]: https://twitter.com/borkstick
 [youtube]: https://youtube.com/borkstick
 [instagram]: https://instagram.com/borkstick
-[linkedin]: https://linkedin.com/in/borkstick
+[linkedin]: https://linkedin.com/in/tylor-wurz-9a5bab20
 [webdevplaylist]: #
 [jsplaylist]: #
 [cssplaylist]: #
