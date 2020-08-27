@@ -4,7 +4,7 @@
 
 Hi I am Tylor. Im a huge nerd/geek and I love to tinker with my homelab.
 
-Here are some ideas to get you started:
+### Getting you started:
 
 - 🔭 I’m currently working on updating my homelab
 - 🌱 I’m currently learning Docker
