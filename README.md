@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=tylor.ninja&style=for-the-badge&url=https%3A%2F%2Ftylor.ninja)](https://tylor.ninja)
 
-Hi I am Tylor. Im a huge nerd/geek and I love to tinker with my homelab.
+Hi I am Tylor. Im a Full Stack Developer, a huge nerd/geek and I love to tinker with my homelab.
 
 ### Getting you started:
 
@@ -49,7 +49,7 @@ Hi I am Tylor. Im a huge nerd/geek and I love to tinker with my homelab.
 [website]: https://tylor.ninja
 [twitter]: https://twitter.com/borkstick
 [youtube]: https://youtube.com/borkstick
-[instagram]: https://instagram.com/borkstick
+[instagram]: https://www.instagram.com/tylorwurz/
 [linkedin]: https://linkedin.com/in/tylor-wurz-9a5bab20
 [webdevplaylist]: #
 [jsplaylist]: #
