@@ -44,6 +44,11 @@ Hi I am Tylor. Im a Full Stack Developer, a huge nerd/geek and I love to tinker 
 <br>
 
 ---
+### Check out my portfolio
+
+[PORTFOLIO HERE](https://borkstick.github.io/Portfolio/)
+
+
 ### Examples of work
 <a href="https://github.com/BorkStick/stream-template-2020"><img src="https://raw.githubusercontent.com/BorkStick/stream-template-2020/master/IMAGES/screenshot.gif" width="300" /></a>
 
