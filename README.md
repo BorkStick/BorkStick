@@ -46,7 +46,7 @@ Hi I am Tylor. Im a Full Stack Developer, a huge nerd/geek and I love to tinker 
 ---
 ### Check out my portfolio
 
-[PORTFOLIO HERE](https://borkstick.github.io/Portfolio/)
+[PORTFOLIO HERE](https://borkstick.github.io/portfolio/)
 
 
 ### Examples of work
