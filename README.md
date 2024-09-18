@@ -1,5 +1,5 @@
 <h1 align="center">Greeting & Salutations I am Tylor</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A System Engineer | Full Stack Dev | Game Dev from Texas</h3>
 
 <p align="left"> <a href="https://twitter.com/tylorwurz" target="blank"><img src="https://img.shields.io/twitter/follow/tylorwurz?logo=twitter&style=for-the-badge" alt="tylorwurz" /></a> </p>
 
