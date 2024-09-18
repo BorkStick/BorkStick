@@ -19,6 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Tylor.Tech Custom GPT for Blog Posts](https://tylor.tech/blog/tylor-tech-custom-gpt-for-blog-posts/)
+- [Building MR Asteroid: A Mixed Reality Classic](https://tylor.tech/blog/building-mr-asteroid-a-mixed-reality-classic/)
+- [Toilet Paper Clicker: A Mixed Reality Game for Bathroom Breaks](https://tylor.tech/blog/toilet-paper-clicker-a-mixed-reality-game-for-bathroom-breaks/)
+- [Major Update: BorkMR – Timer Gets a New Look](https://tylor.tech/blog/major-update-borkmr-timer-gets-a-new-look/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
