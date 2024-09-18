@@ -26,7 +26,7 @@
 <a href="https://twitter.com/tylorwurz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tylorwurz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tylor-wurz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tylor-wurz" height="30" width="40" /></a>
 <a href="https://instagram.com/tylorwurz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tylorwurz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/borkstick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="borkstick" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@BorkStick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="borkstick" height="30" width="40" /></a>
 <a href="/https://tylor.tech/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://tylor.tech/feed/" height="30" width="40" /></a>
 </p>
 
