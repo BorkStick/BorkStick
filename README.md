@@ -22,7 +22,7 @@
 - [Tylor.Tech Custom GPT for Blog Posts](https://tylor.tech/blog/tylor-tech-custom-gpt-for-blog-posts/)
 - [Building MR Asteroid: A Mixed Reality Classic](https://tylor.tech/blog/building-mr-asteroid-a-mixed-reality-classic/)
 - [Toilet Paper Clicker: A Mixed Reality Game for Bathroom Breaks](https://tylor.tech/blog/toilet-paper-clicker-a-mixed-reality-game-for-bathroom-breaks/)
-- [Jezzball Clone](https://tylor.tech/blog/jezzball-clone/)
+- [Metaverse Survivor](https://tylor.tech/blog/metaverse-survivor/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
