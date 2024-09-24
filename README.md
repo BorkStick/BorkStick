@@ -22,7 +22,7 @@
 - [Chummy Waters](https://tylor.tech/blog/chummy-waters/)
 - [Tylor.Tech Custom GPT for Blog Posts](https://tylor.tech/blog/tylor-tech-custom-gpt-for-blog-posts/)
 - [Building MR Asteroid: A Mixed Reality Classic](https://tylor.tech/blog/building-mr-asteroid-a-mixed-reality-classic/)
-- [Flappy Burns Update](https://tylor.tech/blog/flappy-burns-update/)
+- [Flappy Burns: Upgrading My Flappy Bird Clone with Sideburns and Mixed Reality](https://tylor.tech/blog/flappy-burns-upgrading-my-flappy-bird-clone-with-sideburns-and-mixed-reality/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
