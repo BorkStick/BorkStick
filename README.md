@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Separating Chummy Waters into Its Own Project &amp; Upgrading to the Meta SDK](https://tylor.tech/blog/separating-chummy-waters-into-its-own-project-upgrading-to-the-meta-sdk/)
 - [Chummy Waters: Turning a Late-Night Idea into a Mixed Reality Fish Game](https://tylor.tech/blog/chummy-waters-turning-a-late-night-idea-into-a-mixed-reality-fish-game/)
 - [Tylor.Tech Custom GPT for Blog Posts](https://tylor.tech/blog/tylor-tech-custom-gpt-for-blog-posts/)
 - [Building MR Asteroid: A Mixed Reality Classic](https://tylor.tech/blog/building-mr-asteroid-a-mixed-reality-classic/)
-- [Flappy Burns: Upgrading My Flappy Bird Clone with Sideburns and Mixed Reality](https://tylor.tech/blog/flappy-burns-upgrading-my-flappy-bird-clone-with-sideburns-and-mixed-reality/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
