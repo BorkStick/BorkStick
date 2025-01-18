@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Borked AIM.LABS Update: New Features, Better Gameplay, and Community Feedback](https://tylor.tech/blog/borked-aim-labs-update-new-features-better-gameplay-and-community-feedback/)
 - [Toilet Paper Clicker: Quick Web Version Build](https://tylor.tech/blog/toilet-paper-clicker-quick-web-version-build/)
 - [MR Asteroid Game Update: Blender Models, Shaders, and a Working Game Loop](https://tylor.tech/blog/mr-asteroid-game-update-blender-models-shaders-and-a-working-game-loop/)
 - [New 3D Printer in the Lab: Bambu Labs A1 Mini with AMS](https://tylor.tech/blog/new-3d-printer-in-the-lab-bambu-labs-a1-mini-with-ams/)
-- [Building Thieves Guild: Smash &amp; Grab for the Meta Horizon Creator Competition](https://tylor.tech/blog/building-thieves-guild-smash-grab-for-the-meta-horizon-creator-competition/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
