@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Swingy Swordy: Rolling into Pirate Software’s Game Jam 16](https://tylor.tech/blog/swingy-swordy-rolling-into-pirate-softwares-game-jam-16/)
 - [Borked AIM.LABS Update: New Features, Better Gameplay, and Community Feedback](https://tylor.tech/blog/borked-aim-labs-update-new-features-better-gameplay-and-community-feedback/)
 - [Toilet Paper Clicker: Quick Web Version Build](https://tylor.tech/blog/toilet-paper-clicker-quick-web-version-build/)
 - [MR Asteroid Game Update: Blender Models, Shaders, and a Working Game Loop](https://tylor.tech/blog/mr-asteroid-game-update-blender-models-shaders-and-a-working-game-loop/)
-- [New 3D Printer in the Lab: Bambu Labs A1 Mini with AMS](https://tylor.tech/blog/new-3d-printer-in-the-lab-bambu-labs-a1-mini-with-ams/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
