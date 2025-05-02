@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [🧩 Pixelfinity: Turning Gridfinity into Pixel Art &lpar;and Vibe Coding My Way Through It&rpar;](https://tylor.tech/blog/%f0%9f%a7%a9-pixelfinity-turning-gridfinity-into-pixel-art-and-vibe-coding-my-way-through-it/)
 - [Swingy Swordy: Rolling into Pirate Software’s Game Jam 16](https://tylor.tech/blog/swingy-swordy-rolling-into-pirate-softwares-game-jam-16/)
 - [Borked AIM.LABS Update: New Features, Better Gameplay, and Community Feedback](https://tylor.tech/blog/borked-aim-labs-update-new-features-better-gameplay-and-community-feedback/)
 - [Toilet Paper Clicker: Quick Web Version Build](https://tylor.tech/blog/toilet-paper-clicker-quick-web-version-build/)
-- [MR Asteroid Game Update: Blender Models, Shaders, and a Working Game Loop](https://tylor.tech/blog/mr-asteroid-game-update-blender-models-shaders-and-a-working-game-loop/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
